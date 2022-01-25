@@ -3,3 +3,4 @@
 # malinokaz
 # malinokaz
 # malinokaz
+print('hello world!')
